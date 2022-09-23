@@ -28,4 +28,4 @@
 
 - How to use `z-index` property
 
-## [Live-link]() of the project
+## [Live-link](https://landingpage-of-developer.netlify.app/) of the project
