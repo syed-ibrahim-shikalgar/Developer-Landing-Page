@@ -516,7 +516,7 @@ form {
 
     .download-section {
         flex-direction: column;
-        margin-left: 50px;
+        margin-left: 20px;
     }
 
     .download-content h1 {
@@ -544,15 +544,24 @@ form {
 
     .footer-right1 img {
         margin-left: -2rem;
+        height: 30px;
     }
 
     .footer-logos {
         margin-right: 50px;
     }
 
+    .footer-logo {
+        height: 30px;
+    }
+
     .blog-heading h1 {
         margin-left: 30px;
         font-size: 20px;
+    }
+
+    .list-items {
+        font-size: 9px;
     }
 
     .blog-heading span {
