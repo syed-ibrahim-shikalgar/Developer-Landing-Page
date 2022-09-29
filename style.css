@@ -452,8 +452,8 @@ form {
     }
 
     .company-items {
-        font-size: 15px;
-
+        font-size: 13px;
+        margin-right: 20px;
     }
 
     .cards {
