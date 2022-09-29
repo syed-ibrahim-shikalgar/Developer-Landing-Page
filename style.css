@@ -435,6 +435,10 @@ form {
         display: none;
     }
 
+    .header-text {
+        margin-left: 20px;
+    }
+
     .header-text h2 {
         font-size: 25px;
     }
@@ -443,8 +447,13 @@ form {
         font-size: 12px;
     }
 
+    .companies {
+        margin-left: 20px;
+    }
+
     .company-items {
         font-size: 15px;
+
     }
 
     .cards {
